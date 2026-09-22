@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello, world! Sou a Rafaela :)</h1>
 
 <p align="center">
-  <em>Desenvolvedora Front-End em formação • Criativa • Apaixonada por aprendizado</em>  
+  <em>Desenvolvedora Front-End Júnior • Criativa • Apaixonada por aprendizado</em>  
 </p>
 
 ---
